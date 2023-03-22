@@ -1,0 +1,17 @@
+pandas
+pymongo
+python-docx 
+python-pptx
+striprtf
+BeautifulSoup4
+pygraphviz
+cx_Oracle
+python-dotenv
+ldap3
+openpyxl
+networkx
+shapely
+geopy
+spacy
+boto3
+tika
